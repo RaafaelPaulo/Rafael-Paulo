@@ -2,11 +2,9 @@
 
 ### 💻 Em transição de carreira para Desenvolvimento Web
 
-Profissional com experiência corporativa na área de processos, análise e qualidade, atualmente realizando uma transição planejada para a área de tecnologia.
+Profissional com 14 anos de experiência corporativa na Unimed Campinas, atualmente cursando o **Full Stack Pro na DevClub** e desenvolvendo projetos práticos na área de tecnologia.
 
-Estou cursando o **Full Stack Pro na DevClub**, desenvolvendo conhecimentos em programação e construindo projetos práticos para meu portfólio.
-
-Minha experiência profissional anterior contribui para minha formação como desenvolvedor, principalmente em **análise de problemas, organização, processos, qualidade, trabalho em equipe e foco em resultados**.
+Tenho conhecimentos em **HTML5, CSS3, JavaScript e lógica de programação**, além de experiência profissional em análise de dados, processos, qualidade, resolução de problemas e trabalho em equipe.
 
 ---
 
@@ -34,13 +32,14 @@ Minha experiência profissional anterior contribui para minha formação como de
 
 ---
 
-## 📂 Projetos
+## 📂 Projeto em destaque
 
 ### 🎲 Rafa Sorteios — Sorteador de Números
 
 Aplicação web desenvolvida com **HTML5, CSS3 e JavaScript**, permitindo que o usuário defina um intervalo numérico e realize um sorteio.
 
 **Conceitos praticados:**
+
 - Lógica de programação
 - JavaScript
 - Manipulação do DOM
@@ -49,33 +48,25 @@ Aplicação web desenvolvida com **HTML5, CSS3 e JavaScript**, permitindo que o 
 - CSS Flexbox
 - Responsividade
 
-🔗 [Ver projeto](https://raafaelpaulo.github.io/Primeiros-Passos-java/)
+🔗 [Ver projeto online](https://raafaelpaulo.github.io/Primeiros-Passos-java/)
 
-🔗 [Ver código no GitHub](https://github.com/RaafaelPaulo/Rafa-Sorteio--JavaScript)
-
----
-
-## 🎯 Objetivo profissional
-
-Meu objetivo é ingressar profissionalmente na área de tecnologia, inicialmente em uma oportunidade de **Desenvolvimento Front-End ou Desenvolvimento Web**, continuando minha evolução para Full Stack.
-
-Busco uma oportunidade onde possa aplicar meus conhecimentos, aprender com profissionais experientes e contribuir com minha experiência corporativa, capacidade analítica e foco em resolução de problemas.
+💻 [Ver código no GitHub](https://github.com/RaafaelPaulo/Rafa-Sorteio--JavaScript)
 
 ---
 
 ## 💼 Experiência profissional
 
-Possuo mais de uma década de experiência profissional na **Unimed Campinas**, atuando em áreas relacionadas a:
+Possuo 14 anos de experiência profissional na **Unimed Campinas**, com atuação em áreas relacionadas a:
 
 - Análise e auditoria de dados
 - Gestão de processos
 - Garantia da qualidade
 - Melhoria contínua
 - Resolução de problemas
-- Treinamento e desenvolvimento de equipes
+- Treinamento de equipes
 - Comunicação e relacionamento corporativo
 
-Essa experiência faz parte da minha transição para tecnologia e contribui para minha visão de processos e resolução de problemas no desenvolvimento de software.
+Essa experiência contribui para minha formação na área de tecnologia, especialmente em análise de problemas, organização, processos, qualidade e foco em resultados.
 
 ---
 
@@ -87,6 +78,14 @@ Essa experiência faz parte da minha transição para tecnologia e contribui par
 🎓 **MBA em Gestão Empresarial**
 
 🎓 **Tecnólogo em Logística — Faculdade Iescamp**
+
+---
+
+## 🎯 Objetivo profissional
+
+Meu objetivo é ingressar profissionalmente na área de tecnologia, buscando uma oportunidade de **Desenvolvimento Front-End ou Desenvolvimento Web**.
+
+Estou construindo minha experiência por meio de estudos e projetos práticos, buscando evoluir continuamente minhas habilidades técnicas e aplicar minha experiência profissional em novos desafios.
 
 ---
 
