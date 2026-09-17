@@ -46,11 +46,11 @@ Aplicação web desenvolvida com **HTML5, CSS3 e JavaScript**, permitindo que o 
 - Validação de campos
 - Geração de números aleatórios
 - CSS Flexbox
-- Responsividade
+- Design responsivo
 
-🔗 [Ver projeto online](https://raafaelpaulo.github.io/Primeiros-Passos-java/)
+🌐 **[Ver projeto online](https://raafaelpaulo.github.io/Rafa-Sorteio--JavaScript/)**
 
-💻 [Ver código no GitHub](https://github.com/RaafaelPaulo/Rafa-Sorteio--JavaScript)
+💻 **[Ver código no GitHub](https://github.com/RaafaelPaulo/Rafa-Sorteio--JavaScript)**
 
 ---
 
